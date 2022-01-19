@@ -1,8 +1,6 @@
 # Student_Task_Nidhi_Alpesh_Mehta
 
-**Git repository** 
-
-**Task 1**
+**Task 1** **(Git repository and setting up)**
 
 Step 1: Clone the repository in the destination of your choice, using the following command:
 
@@ -12,17 +10,15 @@ Step 2: Please read the **README.md** file before starting
 
 **Downloading the dataset** 
 
-Please download the Image dataset from https://drive.google.com/file/d/1hbzc_P1FuxMkcabkgn9ZKinBwW683j45/view before starting. 
+Step 3: Please download the Image dataset from https://drive.google.com/file/d/1hbzc_P1FuxMkcabkgn9ZKinBwW683j45/view before starting. Save the dataset in the same folder as the git repository is saved 
 
-Save the dataset in the same folder as the git repository is saved 
+Step 4: Open the folder where dataset is saved. Create two new folders and name them as "train" and "test" respectively.
 
-Step 1: Open the folder where dataset is saved. Create two new folders and name them as "train" and "test" respectively.
+Step 5: From the image folder copy first 100 folders to the train folder and rest 100 folders to the test folder respectively.
 
-Step 2: From the image folder copy first 100 folders to the train folder and rest 100 folders to the test folder respectively.
+Step 6 : Open the Juypter notebook and copy the path of folder where the dataset is saved as an input to "dataset_path".
 
-Step 3 : Open the Juypter notebook and copy the path of folder where the dataset is saved as an input to "dataset_path".
-
-Step 4: Run each cell in the Juypter notebook.
+Step 7: Run each cell in the Juypter notebook.
 
 **Task 2**
 
