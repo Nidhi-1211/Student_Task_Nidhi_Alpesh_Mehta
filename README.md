@@ -8,8 +8,6 @@ git clone https://github.com/Nidhi-1211/Nyris_student_task.git
 
 Step 2: Please read the **README.md** file before starting 
 
-**Downloading the dataset** 
-
 Step 3: Please download the Image dataset from https://drive.google.com/file/d/1hbzc_P1FuxMkcabkgn9ZKinBwW683j45/view before starting. Save the dataset in the same folder as the git repository is saved 
 
 Step 4: Open the folder where dataset is saved. Create two new folders and name them as "train" and "test" respectively.
