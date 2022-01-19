@@ -37,4 +37,4 @@ Step 7: Run each cell in the Juypter notebook.
 
 - Information of metrics used to evaluate the Image Retrieval models.
 
-*Note: You might find that task 4 is not fully completed since, I am new to deep learning and CNN. This requering extensive research which was not possible in the limited time.*
+*Note: You might find that task 4 is not fully completed since, I am new to deep learning and CNN. This required extensive research which was not possible in the limited time.*
