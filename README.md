@@ -18,7 +18,7 @@ Step 6 : Open the Juypter notebook and copy the path of folder where the dataset
 
 Step 7: Run each cell in the Juypter notebook.
 
-**Task 2**
+**Task 2 (EDA)**
 
 - The first cell will import all the neccessary packages to finish all the tasks.
 - Ensure that you have entered the "dataset_path" in the first cell.
@@ -27,12 +27,12 @@ Step 7: Run each cell in the Juypter notebook.
 - Also the average height and width of the images in the dataset can be seen in the box plot which gives an idea about the size of the images in the dataset.
 - Two CSV files are created, the test_data.csv and train_data.csv which has the information about the train and test subdataset.
 
-**Task 3**
+**Task 3 (Feature extraction)**
 
 - Further the train and test dataset are loaded 
 - A pretrained model is chosen " ResNet 50" to extract the features
 - The extracted features are saved as numpy files as "test_features.npy" and "train_features.npy" 
 
-**Task 4**
+**Task 4 ( Metrics evaluation)**
 
 - Information of metrics used to evaluate the Image Retrieval models.
