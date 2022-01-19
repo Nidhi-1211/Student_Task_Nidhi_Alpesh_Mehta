@@ -33,6 +33,6 @@ Step 7: Run each cell in the Juypter notebook.
 - A pretrained model is chosen " ResNet 50" to extract the features
 - The extracted features are saved as numpy files as "test_features.npy" and "train_features.npy" 
 
-**Task 4 ( Metrics evaluation)**
+**Task 4 (Metrics evaluation)**
 
 - Information of metrics used to evaluate the Image Retrieval models.
